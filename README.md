@@ -1,2 +1,3 @@
 # USP_Othello_Vulgo_Reversi
-Joguin mt do louco .0
+
+Código para garantir nota
