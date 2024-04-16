@@ -1,2 +1,2 @@
-# USP_Othello_Vulgo_Reversi
-Joguin mt do louco .0
+# USP_Othello_Vulgo_Reversi_Demo
+Joguin mt do louco :o
